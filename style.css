@@ -134,7 +134,7 @@
 	text-align: center;
 	height: 95vh;
 	background: linear-gradient(rgba(0, 0, 0, 0.5),
-			rgba(0, 0, 0, 0.5)), url('./img/fancy.jpg') no-repeat center center fixed;
+			rgba(0, 0, 0, 0.5)), url('https://i.postimg.cc/3Jjjt9ZS/fancy.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -157,7 +157,7 @@
 /* Showcase */
 #showcase {
 	padding: 120px 0;
-	background: url('./img/lines.jpg') no-repeat center center;
+	background: url('https://i.postimg.cc/0jwn5sDP/lines.jpg') no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -247,7 +247,7 @@
 #showcase .wrapper .box.box-one {
 	padding: 25px;
 	background: linear-gradient(rgba(0, 0, 0, 0.6),
-			rgba(0, 0, 0, 0.6)), url('./img/steak.jpg');
+			rgba(0, 0, 0, 0.6)), url('https://i.postimg.cc/FzySns0d/steak.jpg');
 	background-size: cover;
 	background-position: center;
 	transition: all .2s ease-in-out;
@@ -256,7 +256,7 @@
 #showcase .wrapper .box.box-two {
 	padding: 25px;
 	background: linear-gradient(rgba(0, 0, 0, 0.6),
-			rgba(0, 0, 0, 0.6)), url('./img/drinks.jpg');
+			rgba(0, 0, 0, 0.6)), url('https://i.postimg.cc/fLk5FXb3/drinks.jpg');
 	background-size: cover;
 	background-position: center;
 
@@ -265,7 +265,7 @@
 #showcase .wrapper .box.box-three {
 	padding: 25px;
 	background: linear-gradient(rgba(0, 0, 0, 0.6),
-			rgba(0, 0, 0, 0.6)), url('./img/salad.jpg');
+			rgba(0, 0, 0, 0.6)), url('https://i.postimg.cc/ncxB9Btv/salad.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -567,11 +567,11 @@ footer p {
 	background:
 		linear-gradient(rgba(0, 0, 0, 0.4),
 			rgba(0, 0, 0, 0.4)),
-		url('./img/menu/salads.jpg') no-repeat center center fixed !important;
+		url('https://i.postimg.cc/XqgDwW13/salads.jpg') no-repeat center center fixed !important;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size: cover !important;
 }
 
 /* Drinks */
@@ -580,11 +580,11 @@ footer p {
 	background:
 		linear-gradient(rgba(0, 0, 0, 0.4),
 			rgba(0, 0, 0, 0.4)),
-		url('./img/menu/beer.jpg') no-repeat center center fixed !important;
+		url('https://i.postimg.cc/SNyPmXjK/beer.jpg') no-repeat center fixed !important;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size: cover !important;
 }
 
 .wine {
@@ -592,11 +592,11 @@ footer p {
 	background:
 		linear-gradient(rgba(0, 0, 0, 0.4),
 			rgba(0, 0, 0, 0.4)),
-		url('./img/menu/wine.jpg') no-repeat center center fixed !important;
+		url('https://i.postimg.cc/wx5PK5qP/wine.jpg') no-repeat center center fixed !important;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size: cover !important;
 }
 
 /* Specials */
@@ -730,7 +730,7 @@ footer p {
 	background:
 		linear-gradient(rgba(0, 0, 0, 0.4),
 			rgba(0, 0, 0, 0.4)),
-		url('./img/chefHelp.jpg') no-repeat center center fixed;
+		url('https://i.postimg.cc/hG2ppMKW/chefHelp.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1037,7 +1037,7 @@ footer p {
 	#feature-items {
 		height: 60vh;
 		width: 100%;
-		background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./img/menu/steakBG.jpg) no-repeat center center;
+		background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://i.postimg.cc/RVRjt72f/steakBG.jpg) no-repeat center center;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
