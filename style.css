@@ -507,7 +507,7 @@ footer p {
 	background:
 		linear-gradient(rgba(0, 0, 0, 0.4),
 			rgba(0, 0, 0, 0.4)),
-		url('./img/menu/steakBG.jpg') no-repeat center center fixed;
+		url('https://i.postimg.cc/RVRjt72f/steakBG.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
